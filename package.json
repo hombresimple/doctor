@@ -2,7 +2,7 @@
   "name": "doctor",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oksemonenko.github.io/doctor",
+  "homepage": "https://hombresimple.github.io",
   "dependencies": {
     "cra-template": "1.0.3",
     "react": "^16.13.1",
